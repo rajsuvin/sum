@@ -1,0 +1,28 @@
+.container{
+    /* background-color: aquamarine; */
+    height: 35px;
+}
+.container-sm{
+    /* background-color: rgb(203, 172, 233); */
+    height: 35px;
+}
+.container-md{
+    /* background-color: rgb(70, 240, 84); */
+    height: 35px;
+}
+.container-lg{
+    /* background-color: rgb(240, 57, 96); */
+    height: 35px;
+}
+.container-xl{
+    /* background-color: rgb(232, 235, 24); */
+    height: 35px;
+}
+.container-xxl{
+    /* background-color: lightsalmon; */
+    height: 35px;
+}
+.container-fluid{
+    /* background-color: red; */
+    height: 35px;
+}

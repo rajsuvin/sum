@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(189, 147, 90);
+}
+nav{
+    z-index:2;
+    display: flex;
+    width: 100%;
+    margin-top: -70px;
+    padding: 20px;
+    align-items:center;
+    justify-content: space-between;
+    position: fixed;
+    background-color: rgba(0,0,0, .3);
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: -20px ;
+    text-align: center;
+    padding-left: 150px;
+    margin-top: -300px;
+    
+}
+nav ul li a{
+     text-decoration: none;
+     color: rgb(49, 205, 211);
+     font-weight: bold;
+}
+nav ul li a:hover{
+color: darkmagenta;
+}
+.detel{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.detel h1{
+    font-size: 50px;
+    color: rgb(240, 87, 16);
+    margin-bottom: 20px;
+}
+.detel p{
+    color: rgb(201, 213, 224);
+    line-height: 22px;
+}
+.detel a{
+    background-color: lightslategray;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: wheat;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 5;
+}
+.images{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+}
+.images img{
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-top: -50px;
+}
+#about{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.aboutus{
+    color:white;
+    font-size: 70px;
+}
+.aboutus2{
+    color: red;
+    font-size: 40px;
+}
+#about p{
+    color: lawngreen;
+    font-size: 17px;
+}
+#about button{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(189, 12, 12);
+    border-radius: 50px;
+}
+#portfolio{
+    background-color: rgb(34, 33, 33);
+}
+.card-title{
+    font-size: 40px;
+    color: rgb(17, 236, 200);
+}
+.card{
+    background-color:rgb(243, 247, 250) ;
+}
+.card-text{
+    color: rgb(196, 112, 9);
+}
+#portfolio a:hover{
+    color: violet;
+}
+.port{
+    text-align: center;
+    font-size: 70px ;
+    color: white;
+}
+#contact{
+    text-align: center;
+    /* margin-top: 30px; */
+    background-color: darkcyan;
+}
+.contacts{
+    color: white;
+    font-size: 70px;
+}
+
+

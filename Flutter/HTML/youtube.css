@@ -1,0 +1,59 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+.youtube{
+    width: 18%;
+    height: 35px;
+    margin-top: -90px;
+    padding-left : 90px;
+}
+.search{
+    width: 90%;
+    border-radius: 20px;
+    border-color:  slategrey;
+    text-align: justify;
+}
+.eclips{
+    padding: 180px;
+}
+.sign{
+    width: 15%;
+}
+.signin{
+    width: 5%;
+}
+.sss{
+    padding: 350px;
+    margin-top: -446px;
+}
+.in{
+    padding-left: 900px;
+    margin-top: -559px;
+}
+.home{
+    margin-top: -150px;
+}
+.shorts{
+    width: 3%;
+    height: 40px;
+    margin-top: 30px;
+}
+.sub{
+    margin-top: 40px;
+}
+h6{
+    font-size: smaller;
+}
+.lib{
+    width: 3%;
+    height: 40px;
+    margin-top: 30px;
+}
+.his{
+    margin-top: 40px;
+}
+.div1{
+    padding-left: 60px;
+    margin-top: -156px;
+}

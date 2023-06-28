@@ -1,0 +1,57 @@
+*{
+    margin: 1px;
+    padding: 10px;
+}
+.job{
+    /* padding-left: 350px; */
+    font-size: 50px;
+}
+.web{
+    padding-left: 400px;
+    font-size: 30px;
+    margin-top: -82px;
+    color: darkblue ;
+}
+.form-control{
+    height: 70px;
+    width: 70%;
+}
+.form-control2{
+    height: 70px;
+    width: 34%;
+}
+
+.form-select{
+    width: 70%;
+    height: 100px;
+}
+.form-floating{
+    padding-left: 727px;
+    margin-top: -160px;
+}
+.form-controll{
+    height: 300px;
+    width: 90%;
+}
+.form-controlll{
+    height: 70px;
+    width: 70%; 
+}
+.forms-control{
+    height: 70px;
+    width: 34%;  
+}
+.mb-31{
+    padding-left: 700px;
+    margin-top: -170px;
+}
+.apply{
+    width: 10%;
+    background-color: darkorange;
+    height: 60px;
+    
+}
+.button{
+    text-align: end;
+    /* padding-left: 1050px; */
+}

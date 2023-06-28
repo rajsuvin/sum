@@ -1,0 +1,149 @@
+.img{
+    width: -10%;
+    height: 90px;
+}
+.com{
+    font-size: xx-large;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100px;
+    float: right;
+    padding-right: 1210px;
+    color: green;
+    font-family: 'Kanit', sans-serif;
+   }
+   .img1{
+    width: 40%;
+    height: 500px;
+    padding-left: 100px;
+    margin-top: 100px;
+   }
+  .title{
+    float: right;
+    padding-right: 190px;
+    margin-top: 130px;
+  }
+  .enjoy{
+    font-size:100px ;
+  }
+.off{
+    width: 30%;
+  }
+  .explore{
+    margin-bottom: 200px;
+  }
+ 
+  .discount{
+    margin-top: 100px;
+    padding-left: 200px;
+    width: 20%;
+    height: 100px;
+  }
+  .vdiv{
+    padding-left: 300px;
+    margin-top:-80px;
+  }
+  .fresh{
+    width: 80px;
+   margin-left: 500px;
+   margin-top: -130px;
+  }
+  .food{
+    padding-left:600px ;
+ margin-top: -99px;
+     }
+     .home{
+        width: 80px;
+        margin-left: 850px;
+        margin-top:-160px ;
+     }
+     .fast{
+        padding-left: 975px;
+        margin-top: -170px;
+     }
+     .border{
+        width: 100px;
+        height: 30px;
+        background-color: green;
+        text-align: center;
+        color: white;
+        margin-top: 100px;
+        margin-left: 670px;
+    }
+    .menu{
+        text-align: center;
+    }
+  .sadhya{
+    margin: 100px;
+  }
+  .pasta{
+    height: 400px;
+    margin-left: -50px;
+  }
+  .potato{
+    margin-left: 50px;
+    margin-bottom: 100px;
+    height: 290px;
+    width: 20%;
+  }
+  .cup{
+    padding-left: 100px;
+    width: 30%;
+    margin-top: -60px;
+  }
+  .bread{
+    height: 335px;
+    width: 19%;
+    margin-top: -55px;
+  }
+  .tea{
+    padding-left: 49px;
+    height:340px ;
+    width: 311px;
+    margin-top: -50px;
+  }
+  
+  .dec{
+    padding-left: 54px ;
+    width: 24%;
+    height: 498px;
+    margin-top: -200px;
+  }
+  .imgy{
+    width: -10%;
+    height: 90px;
+    padding-left: 0px;
+  }
+  .comedy{
+    font-size: xx-large;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100px;
+    float: right;
+    padding-right: 1210px;
+    color: green;
+    font-family: 'Kanit', sans-serif;
+  }
+  .imp{
+     text-align: center;
+     margin-top: -20px;
+  }
+  li{
+    list-style: none;
+  }
+  .support{
+    padding-left: 850px;
+    margin-top: -150px;
+  }
+  .join{
+    padding-left:1050px ;
+    margin-top: -150px;
+  }
+  .last{
+    background-color: moccasin;
+  }
+  .dot{
+    padding-left: 1300px;
+    margin-top: -200px;
+   
+  }
